@@ -17,7 +17,8 @@ As Jardle is a Java App, it is a cross-platform app i.e. it can run on all platf
 To setup the game, just go inside the **"release"** folder of this repository.
 - Now, for windows, just download and place the **"Jardle_Windows"** folder wherever you want and then go inside that folder and open **"Jardle_v1.0.0.exe"**.
 - For other platforms, just download and place the **"Jardle"** folder wherever you want and then go inside that folder and open **"Jardle_v1.0.0.jar"**.
-Then, enjoy the game!
+
+After opening the app, enjoy the game!
 
 To get help or to learn about how to play the game, please open and read the **"Jardle_Guide.pdf"** file present on the root of this repository.
 
