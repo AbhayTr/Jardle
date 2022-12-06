@@ -12,9 +12,13 @@ Jardle is a word-guessing game which is majorly inspired by the concept of © Ne
 
 ## How to install and play the game
 
+As Jardle is a Java App, it is a cross-platform app i.e. it can run on all platforms which Java supports. Hence, the only minimum requirement to play the game is that you should have Java Runtime Environment (JRE) installed on your system. To know how to install JRE, kindly visit https://docs.oracle.com/goldengate/1212/gg-winux/GDRAD/java.htm.
+
 To setup the game, just go inside the **"release"** folder of this repository.
 - Now, for windows, just download and place the **"Jardle_Windows"** folder wherever you want and then go inside that folder and open **"Jardle_v1.0.0.exe"**.
 - For other platforms, just download and place the **"Jardle"** folder wherever you want and then go inside that folder and open **"Jardle_v1.0.0.jar"**.
 Then, enjoy the game!
 
 To get help or to learn about how to play the game, please open and read the **"Jardle_Guide.pdf"** file present on the root of this repository.
+
+© Abhay Tripathi (Concept inspired by © New York Time’s Wordle)
